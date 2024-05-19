@@ -1,0 +1,12 @@
+.display {
+    background: hsl(0, 0%, 100%);
+    color: hsl(0, 100%, 1%);
+    text-align: right;
+    padding: 20px;
+    font-size: 2em;
+    border-bottom: 1px solid #ccc;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 20px; /* Space below the display */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for distinction */
+  }
